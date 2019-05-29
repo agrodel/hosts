@@ -1,27 +1,51 @@
-facebook.com
-qq.com
-wechat.com
-tumblr.com
-instagram.com
-twitter.com
-baidu.com
-viber.com
-weibo.com
-line.me
-snapchat.com
-yy.com
-vk.com
-pinterest.com
-linkedin.com
-telegram.org
-reddit.com
-taringa.net
-foursquare.com
-badoo.com
-myspace.com
-the-dots.com
-kiwibox.com
-flixster.com
-flickr.com
-meetme.com
-meetup.com
+#Project home
+# social network
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+# End of custom host records.
+
+#================================================================
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 facebook.com
+0.0.0.0 qq.com
+0.0.0.0 wechat.com
+0.0.0.0 tumblr.com
+0.0.0.0 instagram.com
+0.0.0.0 twitter.com
+0.0.0.0 baidu.com
+0.0.0.0 viber.com
+0.0.0.0 weibo.com
+0.0.0.0 line.me
+0.0.0.0 snapchat.com
+0.0.0.0 yy.com
+0.0.0.0 vk.com
+0.0.0.0 pinterest.com
+0.0.0.0 linkedin.com
+0.0.0.0 telegram.org
+0.0.0.0 reddit.com
+0.0.0.0 taringa.net
+0.0.0.0 foursquare.com
+0.0.0.0 badoo.com
+0.0.0.0 myspace.com
+0.0.0.0 the-dots.com
+0.0.0.0 kiwibox.com
+0.0.0.0 flixster.com
+0.0.0.0 flickr.com
+0.0.0.0 meetme.com
+0.0.0.0 meetup.com
